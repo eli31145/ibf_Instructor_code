@@ -1,0 +1,315 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main2",
+            "request": "launch",
+            "mainClass": "myapp6.Main2",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class11",
+            "request": "launch",
+            "mainClass": "myapp6.Class11",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class10c",
+            "request": "launch",
+            "mainClass": "myapp6.Class10c",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class10b",
+            "request": "launch",
+            "mainClass": "myapp6.Class10b",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class10",
+            "request": "launch",
+            "mainClass": "myapp6.Class10",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class9",
+            "request": "launch",
+            "mainClass": "myapp6.Class9",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class8",
+            "request": "launch",
+            "mainClass": "myapp6.Class8",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class7",
+            "request": "launch",
+            "mainClass": "myapp6.Class7",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class5",
+            "request": "launch",
+            "mainClass": "myapp6.Class5",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyTest4",
+            "request": "launch",
+            "mainClass": "myapp4.MyTest4",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class8bClient",
+            "request": "launch",
+            "mainClass": "myapp4.Class8bClient",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class8bServer",
+            "request": "launch",
+            "mainClass": "myapp4.Class8bServer",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class8Client",
+            "request": "launch",
+            "mainClass": "myapp4.Class8Client",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class8Server",
+            "request": "launch",
+            "mainClass": "myapp4.Class8Server",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class14b",
+            "request": "launch",
+            "mainClass": "myapp3.Class14b",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class9b",
+            "request": "launch",
+            "mainClass": "myapp3.Class9b",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test1",
+            "request": "launch",
+            "mainClass": "myapp3.Test1",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Box",
+            "request": "launch",
+            "mainClass": "myapp2.Box",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class14",
+            "request": "launch",
+            "mainClass": "myapp.Class14",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class16",
+            "request": "launch",
+            "mainClass": "myapp.Class16",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class17",
+            "request": "launch",
+            "mainClass": "myapp.Class17",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class18",
+            "request": "launch",
+            "mainClass": "myapp.Class18",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class19",
+            "request": "launch",
+            "mainClass": "myapp.Class19",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class20",
+            "request": "launch",
+            "mainClass": "myapp.Class20",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class21",
+            "request": "launch",
+            "mainClass": "myapp.Class21",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class23",
+            "request": "launch",
+            "mainClass": "myapp.Class23",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class31",
+            "request": "launch",
+            "mainClass": "myapp.Class31",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class32",
+            "request": "launch",
+            "mainClass": "myapp.Class32",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class34",
+            "request": "launch",
+            "mainClass": "myapp.Class34",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "myapp.HelloWorld",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld2",
+            "request": "launch",
+            "mainClass": "myapp.HelloWorld2",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyOwn",
+            "request": "launch",
+            "mainClass": "myapp.MyOwn",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class14(1)",
+            "request": "launch",
+            "mainClass": "myapp2.Class14",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class22",
+            "request": "launch",
+            "mainClass": "myapp2.Class22",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class23(1)",
+            "request": "launch",
+            "mainClass": "myapp2.Class23",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class27",
+            "request": "launch",
+            "mainClass": "myapp2.Class27",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class5",
+            "request": "launch",
+            "mainClass": "myapp2.Class5",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class14(2)",
+            "request": "launch",
+            "mainClass": "myapp3.Class14",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class3",
+            "request": "launch",
+            "mainClass": "myapp3.Class3",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class7",
+            "request": "launch",
+            "mainClass": "myapp3.Class7",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class7b",
+            "request": "launch",
+            "mainClass": "myapp3.Class7b",
+            "projectName": "ibf2021_4e19ca04"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class9",
+            "request": "launch",
+            "mainClass": "myapp3.Class9",
+            "projectName": "ibf2021_4e19ca04"
+        }
+    ]
+}
